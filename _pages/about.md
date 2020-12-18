@@ -11,7 +11,6 @@ profile:
   address:
 news: false
 social: true
-image: favicon.png
 ---
 
 
