@@ -14,6 +14,6 @@ social: true
 ---
 
 
-A passionate data engineer with an great interest in Data Science, Machine Learning and Data Analytics. 
+A passionate data engineer with a great interest in Data Science, Machine Learning and Data Analytics. 
 
 I enjoy problem solving, I am very driven, and have a keen eye for detail, making me very suitable for data-related projects. Please contact me for more details on my previous work experiences. 
