@@ -3,17 +3,18 @@ layout: about
 permalink: /
 title: Stan van Lier
 navtitle: about
-description: Freelance Data Engineer and Machine Learning Engineer
-
+description: <span style="font-size:large;">Freelance Data Engineer and Machine Learning Engineer</span> <br> <br> Nijmegen, Netherlands 
+subdescription: Nijmegen Netherlands
 profile:
   align: right
   image: profile_pic.jpg
   address:
 news: false
 social: true
+image: favicon.png
 ---
 
 
-A passionate data engineer with an great interest in Data Science, Machine Learning, Data Analytics, Web scraping, Business Intelligence. 
+A passionate data engineer with an great interest in Data Science, Machine Learning and Data Analytics. 
 
-I enjoy problem solving, am very driven, and have a keen eye for detail. 
+I enjoy problem solving, I am very driven, and have a keen eye for detail, making me very suitable for data-related projects. Please contact me for more details on my previous work experiences. 

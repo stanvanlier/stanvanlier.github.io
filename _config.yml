@@ -1,8 +1,8 @@
 # -----------------------------------------------------------------------------
 # Site settings
 # -----------------------------------------------------------------------------
-name: vlierData
-description: vlierdata # this means to ignore newlines until "url:"
+name: vLierData
+description: vLierdata # this means to ignore newlines until "url:"
 
 footer_text:
 url:  # the base hostname & protocol for your site
@@ -18,7 +18,7 @@ linkedin_username: # your LinkedIn user name
 scholar_userid: # your Google Scholar ID
 orcid_id: # your ORCID ID
 contact_note: >
-  vlierdata 🐒 gmail(dot)com
+  vLierData 🐒 gmail(dot)com
 google_analytics: # out your google-analytics code
 
 # -----------------------------------------------------------------------------
