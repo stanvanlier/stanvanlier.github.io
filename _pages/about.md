@@ -5,10 +5,6 @@ title: Stan van Lier
 navtitle: about
 description: <span style="font-size:large;">Freelance Data Engineer and Machine Learning Engineer</span> <br> <br> Nijmegen, Netherlands 
 subdescription: Nijmegen Netherlands
-profile:
-  align: right
-  image: profile_pic.jpg
-  address:
 news: false
 social: true
 ---
